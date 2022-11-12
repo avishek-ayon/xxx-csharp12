@@ -1,0 +1,15 @@
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task9\bin\Debug\net6.0\Task9.exe
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task9\bin\Debug\net6.0\Task9.deps.json
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task9\bin\Debug\net6.0\Task9.runtimeconfig.json
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task9\bin\Debug\net6.0\Task9.dll
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task9\bin\Debug\net6.0\Task9.pdb
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task9\obj\Debug\net6.0\Task9.csproj.AssemblyReference.cache
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task9\obj\Debug\net6.0\Task9.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task9\obj\Debug\net6.0\Task9.AssemblyInfoInputs.cache
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task9\obj\Debug\net6.0\Task9.AssemblyInfo.cs
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task9\obj\Debug\net6.0\Task9.csproj.CoreCompileInputs.cache
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task9\obj\Debug\net6.0\Task9.dll
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task9\obj\Debug\net6.0\refint\Task9.dll
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task9\obj\Debug\net6.0\Task9.pdb
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task9\obj\Debug\net6.0\Task9.genruntimeconfig.cache
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task9\obj\Debug\net6.0\ref\Task9.dll

@@ -1,0 +1,15 @@
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task7\bin\Debug\net6.0\Task7.exe
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task7\bin\Debug\net6.0\Task7.deps.json
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task7\bin\Debug\net6.0\Task7.runtimeconfig.json
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task7\bin\Debug\net6.0\Task7.dll
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task7\bin\Debug\net6.0\Task7.pdb
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task7\obj\Debug\net6.0\Task7.csproj.AssemblyReference.cache
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task7\obj\Debug\net6.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task7\obj\Debug\net6.0\Task7.AssemblyInfoInputs.cache
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task7\obj\Debug\net6.0\Task7.AssemblyInfo.cs
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task7\obj\Debug\net6.0\Task7.csproj.CoreCompileInputs.cache
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task7\obj\Debug\net6.0\Task7.dll
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task7\obj\Debug\net6.0\refint\Task7.dll
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task7\obj\Debug\net6.0\Task7.pdb
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task7\obj\Debug\net6.0\Task7.genruntimeconfig.cache
+F:\DotNetCourse\xxx-csharp12\Assignment3\Task7\obj\Debug\net6.0\ref\Task7.dll
