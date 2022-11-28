@@ -3,21 +3,31 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace Task1
 {
     public class OrderHistory
     {
-        (string name, int age)[] persons = new (string name, int age)[]
-        {
-            ("jalaluddin", 41),
+        /*       (string name, int age)[] persons = new (string name, int age)[]
+               {
+                           ("jalaluddin", 41),
+                           ("tareq", 33),
+                           ("hasan", 52),
+                           ("rashed", 21),
+                           ("monir", 45)
+               };*/
+
+        object[] persons = new { name = name, age = age,{
+                           ("jalaluddin", 41),
             ("tareq", 33),
             ("hasan", 52),
             ("rashed", 21),
             ("monir", 45)
-        };
+        } }
+    [];
 
-        (string name, double amount)[] orders = new (string name, double amount)[]
+    object[] orders = new { name = name, amount = amount, }[]
         {
             ("monir", 300.5),
             ("rashed", 20.5),
