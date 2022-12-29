@@ -2,8 +2,17 @@
 using Assignment4;
 using Assignment4.Entities;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Diagnostics;
+using System.IO;
+using System.Reflection.Metadata;
+using System.Runtime.CompilerServices;
+using System.Xml.Linq;
+
+Console.WriteLine("###########################   Welcome Attendence System  ***************************");
 
 TrainingDbContext context = new TrainingDbContext();
+
 
 #region Take input to enter 
 Console.WriteLine("Welcome to Our userName");
@@ -171,10 +180,55 @@ if (c1?.UserName != null && c1.UserType == 0)
         User StudentWithCourse = new User { Name = Name, UserName = UserName, Password = Password, UserType = (UserStatus)m };
         context.Users.Add(StudentWithCourse);
         context.SaveChanges();
-        
+       
+
+        List<Course> d1 = context.Courses.ToList();
+
+      // display Course which are assign 
+        Console.WriteLine("Course List");
+        int i;
+
+        for (i = 0; i < d1.Count; i++)
+        {
+            {
+                Console.WriteLine($"No : {i + 1} {d1[i].CourseName}");
+            }
+
+        }
 
 
- 
+        //assign
+
+        Console.WriteLine("-------------------  if you entry a course then 1-------  ");
+        int give = int.Parse(Console.ReadLine());
+        if(give==1)
+        {
+
+
+            Console.WriteLine("give Course Name");
+        String Coursename = Console.ReadLine();
+
+            Console.WriteLine("give student UserName");
+            String studentName = Console.ReadLine();
+
+
+        Course course12 = context.Courses.Where(x => x.CourseName == Coursename)
+            .Include(x => x.CourseStudents)
+            .FirstOrDefault();
+
+        if (course12.CourseStudents == null)
+            course12.CourseStudents = new List<StudentCourseAssignment>();
+
+        User s1 = context.Users.Where(x => x.UserName == studentName).FirstOrDefault(); ;
+        course12.CourseStudents.Add(new StudentCourseAssignment { Student = s1 });
+        context.SaveChanges();
+
+        }
+        else
+        {
+            Console.WriteLine("Thanks ");
+        }
+
 
     }
     #region Admin Added New Course
