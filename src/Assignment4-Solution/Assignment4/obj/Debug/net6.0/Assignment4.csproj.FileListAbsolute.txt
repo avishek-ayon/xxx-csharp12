@@ -1,0 +1,15 @@
+F:\DotNetCourse\xxx-csharp12\src\Assignment4-Solution\Assignment4\bin\Debug\net6.0\Assignment4.exe
+F:\DotNetCourse\xxx-csharp12\src\Assignment4-Solution\Assignment4\bin\Debug\net6.0\Assignment4.deps.json
+F:\DotNetCourse\xxx-csharp12\src\Assignment4-Solution\Assignment4\bin\Debug\net6.0\Assignment4.runtimeconfig.json
+F:\DotNetCourse\xxx-csharp12\src\Assignment4-Solution\Assignment4\bin\Debug\net6.0\Assignment4.dll
+F:\DotNetCourse\xxx-csharp12\src\Assignment4-Solution\Assignment4\bin\Debug\net6.0\Assignment4.pdb
+F:\DotNetCourse\xxx-csharp12\src\Assignment4-Solution\Assignment4\obj\Debug\net6.0\Assignment4.csproj.AssemblyReference.cache
+F:\DotNetCourse\xxx-csharp12\src\Assignment4-Solution\Assignment4\obj\Debug\net6.0\Assignment4.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetCourse\xxx-csharp12\src\Assignment4-Solution\Assignment4\obj\Debug\net6.0\Assignment4.AssemblyInfoInputs.cache
+F:\DotNetCourse\xxx-csharp12\src\Assignment4-Solution\Assignment4\obj\Debug\net6.0\Assignment4.AssemblyInfo.cs
+F:\DotNetCourse\xxx-csharp12\src\Assignment4-Solution\Assignment4\obj\Debug\net6.0\Assignment4.csproj.CoreCompileInputs.cache
+F:\DotNetCourse\xxx-csharp12\src\Assignment4-Solution\Assignment4\obj\Debug\net6.0\Assignment4.dll
+F:\DotNetCourse\xxx-csharp12\src\Assignment4-Solution\Assignment4\obj\Debug\net6.0\refint\Assignment4.dll
+F:\DotNetCourse\xxx-csharp12\src\Assignment4-Solution\Assignment4\obj\Debug\net6.0\Assignment4.pdb
+F:\DotNetCourse\xxx-csharp12\src\Assignment4-Solution\Assignment4\obj\Debug\net6.0\Assignment4.genruntimeconfig.cache
+F:\DotNetCourse\xxx-csharp12\src\Assignment4-Solution\Assignment4\obj\Debug\net6.0\ref\Assignment4.dll
