@@ -200,6 +200,16 @@ if (c1?.UserName != null && c1.UserType == 0)
         //assign
 
         Console.WriteLine("-------------------  if you entry a course then 1-------  ");
+        //all student
+        List<User> Users1 = context.Users.Where(x => x.UserType == UserStatus.Student).ToList();
+
+        foreach (var it in Users1)
+        {
+            Console.WriteLine(it.UserName + " " + it.UserType);
+
+        }
+
+
         int give = int.Parse(Console.ReadLine());
         if(give==1)
         {
