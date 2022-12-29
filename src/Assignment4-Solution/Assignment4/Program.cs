@@ -15,9 +15,9 @@ TrainingDbContext context = new TrainingDbContext();
 
 
 #region Take input to enter 
-Console.WriteLine("Welcome to Our userName");
+Console.WriteLine("Give userName");
 string userName = Console.ReadLine();
-Console.WriteLine("Welcome to password");
+Console.WriteLine("Give password");
 int password = int.Parse(Console.ReadLine());
 
 
@@ -36,7 +36,7 @@ if (c1?.UserName != null && c1.UserType == 0)
     int m = int.Parse(Console.ReadLine());
     if (m == 1)
     {
-        Console.WriteLine("If assign course with Teacher then 1 or give 2 seeing course then assign and give 3 to see teacher then assign a course");
+        Console.WriteLine("If assign course with Teacher then 1 or give 2 only for create then seeing course and give 3 to see teacher then assign a course");
         int value = int.Parse(Console.ReadLine());
         #region student insert with seeing course
         if (value == 2)
@@ -125,7 +125,7 @@ if (c1?.UserName != null && c1.UserType == 0)
 
             List<Course> d1 = context.Courses.ToList();
 
-          // display Course which are assign 
+            #region display Course which are assign 
             Console.WriteLine("Course List which are not assign : ");
             int i;
 
@@ -137,8 +137,9 @@ if (c1?.UserName != null && c1.UserType == 0)
                 }
 
             }
-
+            Console.WriteLine("CourseName : ");
             String SubjectName = Console.ReadLine();
+            Console.WriteLine("TeacherName : ");
             String name = Console.ReadLine();
             Course find4 = context.Courses.Where(x => x.CourseName == SubjectName)
                 .Include(x => x.Teacher)
@@ -158,7 +159,6 @@ if (c1?.UserName != null && c1.UserType == 0)
             }
 
         }
-
         #endregion
 
 
@@ -314,4 +314,5 @@ else
 /*User user = new User { Name = "Avishek das", UserName = "Avishek", Password = 12345, UserType = (UserStatus)0 };
 context.Add(user);
 context.SaveChanges();*/
+#endregion
 #endregion
