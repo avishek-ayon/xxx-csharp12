@@ -1,0 +1,30 @@
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\bin\Debug\net6.0\Codeforces703A.exe
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\bin\Debug\net6.0\Codeforces703A.deps.json
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\bin\Debug\net6.0\Codeforces703A.runtimeconfig.json
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\bin\Debug\net6.0\Codeforces703A.dll
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\bin\Debug\net6.0\Codeforces703A.pdb
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces703A.csproj.AssemblyReference.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces703A.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces703A.AssemblyInfoInputs.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces703A.AssemblyInfo.cs
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces703A.csproj.CoreCompileInputs.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces703A.dll
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\refint\Codeforces703A.dll
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces703A.pdb
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces703A.genruntimeconfig.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\ref\Codeforces703A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces703A\bin\Debug\net6.0\Codeforces703A.exe
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces703A\bin\Debug\net6.0\Codeforces703A.deps.json
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces703A\bin\Debug\net6.0\Codeforces703A.runtimeconfig.json
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces703A\bin\Debug\net6.0\Codeforces703A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces703A\bin\Debug\net6.0\Codeforces703A.pdb
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces703A\obj\Debug\net6.0\Codeforces703A.csproj.AssemblyReference.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces703A\obj\Debug\net6.0\Codeforces703A.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces703A\obj\Debug\net6.0\Codeforces703A.AssemblyInfoInputs.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces703A\obj\Debug\net6.0\Codeforces703A.AssemblyInfo.cs
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces703A\obj\Debug\net6.0\Codeforces703A.csproj.CoreCompileInputs.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces703A\obj\Debug\net6.0\Codeforces703A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces703A\obj\Debug\net6.0\refint\Codeforces703A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces703A\obj\Debug\net6.0\Codeforces703A.pdb
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces703A\obj\Debug\net6.0\Codeforces703A.genruntimeconfig.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces703A\obj\Debug\net6.0\ref\Codeforces703A.dll

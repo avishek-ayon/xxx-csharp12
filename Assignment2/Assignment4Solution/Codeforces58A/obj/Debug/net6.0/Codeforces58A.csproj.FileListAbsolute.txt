@@ -1,0 +1,30 @@
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces58A\bin\Debug\net6.0\Codeforces58A.exe
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces58A\bin\Debug\net6.0\Codeforces58A.deps.json
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces58A\bin\Debug\net6.0\Codeforces58A.runtimeconfig.json
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces58A\bin\Debug\net6.0\Codeforces58A.dll
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces58A\bin\Debug\net6.0\Codeforces58A.pdb
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces58A\obj\Debug\net6.0\Codeforces58A.csproj.AssemblyReference.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces58A\obj\Debug\net6.0\Codeforces58A.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces58A\obj\Debug\net6.0\Codeforces58A.AssemblyInfoInputs.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces58A\obj\Debug\net6.0\Codeforces58A.AssemblyInfo.cs
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces58A\obj\Debug\net6.0\Codeforces58A.csproj.CoreCompileInputs.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces58A\obj\Debug\net6.0\Codeforces58A.dll
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces58A\obj\Debug\net6.0\refint\Codeforces58A.dll
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces58A\obj\Debug\net6.0\Codeforces58A.pdb
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces58A\obj\Debug\net6.0\Codeforces58A.genruntimeconfig.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces58A\obj\Debug\net6.0\ref\Codeforces58A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces58A\bin\Debug\net6.0\Codeforces58A.exe
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces58A\bin\Debug\net6.0\Codeforces58A.deps.json
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces58A\bin\Debug\net6.0\Codeforces58A.runtimeconfig.json
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces58A\bin\Debug\net6.0\Codeforces58A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces58A\bin\Debug\net6.0\Codeforces58A.pdb
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces58A\obj\Debug\net6.0\Codeforces58A.csproj.AssemblyReference.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces58A\obj\Debug\net6.0\Codeforces58A.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces58A\obj\Debug\net6.0\Codeforces58A.AssemblyInfoInputs.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces58A\obj\Debug\net6.0\Codeforces58A.AssemblyInfo.cs
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces58A\obj\Debug\net6.0\Codeforces58A.csproj.CoreCompileInputs.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces58A\obj\Debug\net6.0\Codeforces58A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces58A\obj\Debug\net6.0\refint\Codeforces58A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces58A\obj\Debug\net6.0\Codeforces58A.pdb
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces58A\obj\Debug\net6.0\Codeforces58A.genruntimeconfig.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces58A\obj\Debug\net6.0\ref\Codeforces58A.dll

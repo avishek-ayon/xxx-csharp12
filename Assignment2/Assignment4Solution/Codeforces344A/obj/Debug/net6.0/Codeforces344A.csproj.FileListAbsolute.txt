@@ -1,0 +1,30 @@
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces344A\bin\Debug\net6.0\Codeforces344A.exe
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces344A\bin\Debug\net6.0\Codeforces344A.deps.json
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces344A\bin\Debug\net6.0\Codeforces344A.runtimeconfig.json
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces344A\bin\Debug\net6.0\Codeforces344A.dll
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces344A\bin\Debug\net6.0\Codeforces344A.pdb
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces344A\obj\Debug\net6.0\Codeforces344A.csproj.AssemblyReference.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces344A\obj\Debug\net6.0\Codeforces344A.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces344A\obj\Debug\net6.0\Codeforces344A.AssemblyInfoInputs.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces344A\obj\Debug\net6.0\Codeforces344A.AssemblyInfo.cs
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces344A\obj\Debug\net6.0\Codeforces344A.csproj.CoreCompileInputs.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces344A\obj\Debug\net6.0\Codeforces344A.dll
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces344A\obj\Debug\net6.0\refint\Codeforces344A.dll
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces344A\obj\Debug\net6.0\Codeforces344A.pdb
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces344A\obj\Debug\net6.0\Codeforces344A.genruntimeconfig.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces344A\obj\Debug\net6.0\ref\Codeforces344A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces344A\bin\Debug\net6.0\Codeforces344A.exe
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces344A\bin\Debug\net6.0\Codeforces344A.deps.json
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces344A\bin\Debug\net6.0\Codeforces344A.runtimeconfig.json
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces344A\bin\Debug\net6.0\Codeforces344A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces344A\bin\Debug\net6.0\Codeforces344A.pdb
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces344A\obj\Debug\net6.0\Codeforces344A.csproj.AssemblyReference.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces344A\obj\Debug\net6.0\Codeforces344A.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces344A\obj\Debug\net6.0\Codeforces344A.AssemblyInfoInputs.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces344A\obj\Debug\net6.0\Codeforces344A.AssemblyInfo.cs
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces344A\obj\Debug\net6.0\Codeforces344A.csproj.CoreCompileInputs.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces344A\obj\Debug\net6.0\Codeforces344A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces344A\obj\Debug\net6.0\refint\Codeforces344A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces344A\obj\Debug\net6.0\Codeforces344A.pdb
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces344A\obj\Debug\net6.0\Codeforces344A.genruntimeconfig.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces344A\obj\Debug\net6.0\ref\Codeforces344A.dll

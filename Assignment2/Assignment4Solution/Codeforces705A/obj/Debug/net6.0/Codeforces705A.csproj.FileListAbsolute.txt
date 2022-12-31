@@ -1,0 +1,30 @@
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces705A\bin\Debug\net6.0\Codeforces705A.exe
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces705A\bin\Debug\net6.0\Codeforces705A.deps.json
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces705A\bin\Debug\net6.0\Codeforces705A.runtimeconfig.json
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces705A\bin\Debug\net6.0\Codeforces705A.dll
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces705A\bin\Debug\net6.0\Codeforces705A.pdb
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces705A\obj\Debug\net6.0\Codeforces705A.csproj.AssemblyReference.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces705A\obj\Debug\net6.0\Codeforces705A.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces705A\obj\Debug\net6.0\Codeforces705A.AssemblyInfoInputs.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces705A\obj\Debug\net6.0\Codeforces705A.AssemblyInfo.cs
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces705A\obj\Debug\net6.0\Codeforces705A.csproj.CoreCompileInputs.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces705A\obj\Debug\net6.0\Codeforces705A.dll
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces705A\obj\Debug\net6.0\refint\Codeforces705A.dll
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces705A\obj\Debug\net6.0\Codeforces705A.pdb
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces705A\obj\Debug\net6.0\Codeforces705A.genruntimeconfig.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces705A\obj\Debug\net6.0\ref\Codeforces705A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces705A\bin\Debug\net6.0\Codeforces705A.exe
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces705A\bin\Debug\net6.0\Codeforces705A.deps.json
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces705A\bin\Debug\net6.0\Codeforces705A.runtimeconfig.json
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces705A\bin\Debug\net6.0\Codeforces705A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces705A\bin\Debug\net6.0\Codeforces705A.pdb
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces705A\obj\Debug\net6.0\Codeforces705A.csproj.AssemblyReference.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces705A\obj\Debug\net6.0\Codeforces705A.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces705A\obj\Debug\net6.0\Codeforces705A.AssemblyInfoInputs.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces705A\obj\Debug\net6.0\Codeforces705A.AssemblyInfo.cs
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces705A\obj\Debug\net6.0\Codeforces705A.csproj.CoreCompileInputs.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces705A\obj\Debug\net6.0\Codeforces705A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces705A\obj\Debug\net6.0\refint\Codeforces705A.dll
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces705A\obj\Debug\net6.0\Codeforces705A.pdb
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces705A\obj\Debug\net6.0\Codeforces705A.genruntimeconfig.cache
+F:\DotNetCourse\xxx-csharp12\Assignment2\Assignment4Solution\Codeforces705A\obj\Debug\net6.0\ref\Codeforces705A.dll

@@ -1,0 +1,15 @@
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\bin\Debug\net6.0\Codeforces122A.exe
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\bin\Debug\net6.0\Codeforces122A.deps.json
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\bin\Debug\net6.0\Codeforces122A.runtimeconfig.json
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\bin\Debug\net6.0\Codeforces122A.dll
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\bin\Debug\net6.0\Codeforces122A.pdb
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces122A.csproj.AssemblyReference.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces122A.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces122A.AssemblyInfoInputs.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces122A.AssemblyInfo.cs
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces122A.csproj.CoreCompileInputs.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces122A.dll
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\refint\Codeforces122A.dll
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces122A.pdb
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\Codeforces122A.genruntimeconfig.cache
+F:\DotNetCourse\practice\New folder\src\CodeExamples\Codeforces758A\obj\Debug\net6.0\ref\Codeforces122A.dll
