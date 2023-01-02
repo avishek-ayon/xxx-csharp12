@@ -11,9 +11,13 @@ namespace Assignment4.Entities
         public int Id { get; set; }
         public string CourseName { get; set; }
         public int Fees { get; set; }
+        public int? TotalClasses { get; set; }
         public int? TeacherId { get; set; }
         public User? Teacher { get; set; }
 
         public List<StudentCourseAssignment> CourseStudents { get; set; }
+
+        public List<ClassSchedules> ClassSchedules { get; set; }
+
     }
 }

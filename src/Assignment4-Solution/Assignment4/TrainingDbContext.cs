@@ -57,6 +57,14 @@ namespace Assignment4
 
             #endregion
 
+            #region one to many : course Schedule : Course 
+
+            modelBuilder.Entity<ClassSchedules>()
+                .HasOne(x => x.Course)
+                .WithMany(y => y.ClassSchedules)
+                .HasForeignKey(x => x.CourseId);
+            #endregion
+
             base.OnModelCreating(modelBuilder);
         }
         public DbSet<Course> Courses { get; set; }

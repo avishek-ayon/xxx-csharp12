@@ -31,6 +31,7 @@ if (c1?.UserName != null && c1.UserType == 0)
     Console.WriteLine("Enter 1 to Add Teacher");
     Console.WriteLine("Enter 2 to Add Student");
     Console.WriteLine("Enter 3 to Add Course");
+    Console.WriteLine("Enter 4 To Add Schedule to Course");
 
 
     int m = int.Parse(Console.ReadLine());
@@ -38,6 +39,43 @@ if (c1?.UserName != null && c1.UserType == 0)
     {
         Console.WriteLine("If assign course with Teacher then 1 or give 2 only for create then seeing course and give 3 to see teacher then assign a course");
         int value = int.Parse(Console.ReadLine());
+
+        #region new insert with course
+        if (value == 1)
+        {
+            Console.WriteLine("Name :");
+            string Name = Console.ReadLine();
+
+            Console.WriteLine("UserName :");
+            string UserName = Console.ReadLine();
+
+            Console.WriteLine("Password :");
+            int Password = int.Parse(Console.ReadLine());
+
+
+            User StudentWithCourse = new User { Name = Name, UserName = UserName, Password = Password, UserType = (UserStatus)m };
+            StudentWithCourse.Courses = new List<Course>();
+
+            Console.WriteLine("********************** Course Assign : Give How many Course Assign : ***********************");
+            int a = int.Parse(Console.ReadLine());
+            for (int i = 0; i < a; i++)
+            {
+                Console.WriteLine("CourseName :");
+                string CourseName = Console.ReadLine();
+
+                Console.WriteLine("Fees :");
+                int Fees = int.Parse(Console.ReadLine());
+
+                StudentWithCourse.Courses.Add(new Course { CourseName = CourseName, Fees = Fees });
+            }
+
+
+
+            context.Users.Add(StudentWithCourse);
+            context.SaveChanges();
+        }
+        #endregion
+
         #region student insert with seeing course
         if (value == 2)
         {
@@ -70,6 +108,7 @@ if (c1?.UserName != null && c1.UserType == 0)
             #endregion
 
             #region Update Teacher ID with the requirement of Teacher
+            Console.WriteLine("&&&&&&&&&&& give Course to See Above");
             string courseTitle = Console.ReadLine();
             Course b1 = context.Courses.Where(x => x.CourseName == courseTitle).FirstOrDefault();
 
@@ -83,36 +122,7 @@ if (c1?.UserName != null && c1.UserType == 0)
         #endregion
         #endregion
 
-        #region new insert with course
-        if (value == 1)
-        {
-            Console.WriteLine("Name :");
-            string Name = Console.ReadLine();
-
-            Console.WriteLine("UserName :");
-            string UserName = Console.ReadLine();
-
-            Console.WriteLine("Password :");
-            int Password = int.Parse(Console.ReadLine());
-
-
-            User StudentWithCourse = new User { Name = Name, UserName = UserName, Password = Password, UserType = (UserStatus)m };
-            StudentWithCourse.Courses = new List<Course>();
-
-            Console.WriteLine("How many course are taken : ");
-
-            Console.WriteLine("CourseName :");
-            string CourseName = Console.ReadLine();
-
-            Console.WriteLine("Fees :");
-            int Fees = int.Parse(Console.ReadLine());
-
-            StudentWithCourse.Courses.Add(new Course { CourseName = CourseName, Fees = Fees });
-
-
-            context.Users.Add(StudentWithCourse);
-            context.SaveChanges();
-        }
+        
         if (value == 3)
         {
             List<User> Users1 = context.Users.Where(x => x.UserType == UserStatus.Teacher).ToList();
@@ -199,7 +209,7 @@ if (c1?.UserName != null && c1.UserType == 0)
 
         //assign
 
-        Console.WriteLine("-------------------  if you entry a course then 1-------  ");
+       
         //all student
         List<User> Users1 = context.Users.Where(x => x.UserType == UserStatus.Student).ToList();
 
@@ -208,17 +218,17 @@ if (c1?.UserName != null && c1.UserType == 0)
             Console.WriteLine(it.UserName + " " + it.UserType);
 
         }
-
+        Console.WriteLine("-------------------  if you add a then 1 and see student -------  ");
 
         int give = int.Parse(Console.ReadLine());
         if(give==1)
         {
 
 
-            Console.WriteLine("give Course Name");
+            Console.WriteLine("give Course Name to see list");
         String Coursename = Console.ReadLine();
 
-            Console.WriteLine("give student UserName");
+            Console.WriteLine("give student UserName to see list");
             String studentName = Console.ReadLine();
 
 
@@ -262,6 +272,58 @@ if (c1?.UserName != null && c1.UserType == 0)
             Console.WriteLine($"No : {i + 1} {d1[i].CourseName}");
 
         }
+    }
+    #endregion
+
+    #region Add Course to schedule
+    else if (m == 4)
+    {
+        List<Course> d1 = context.Courses.ToList();
+        Console.WriteLine("Course List");
+        int i;
+        for (i = 0; i < d1.Count; i++)
+        {
+            Console.WriteLine($"No : {i + 1} {d1[i].CourseName}");
+
+        }
+
+        Console.WriteLine("Give Course Name :");
+        string sub = Console.ReadLine();
+
+        Course course1 = context.Courses.Where(x => x.CourseName == sub)
+                                        .Include(x => x.ClassSchedules)
+                                            .FirstOrDefault();
+
+        if (course1.ClassSchedules == null)
+        {
+            course1.ClassSchedules = new List<ClassSchedules>();
+
+        }
+
+        Console.WriteLine("Give how many days of a week");
+        int g = int.Parse(Console.ReadLine());
+        string[] q = new string[g];
+        string[] r = new string[g];
+        string[] s = new string[g];
+
+        for (int j = 0; j < g; j++)
+        {
+            Console.WriteLine("Give day of Week");
+            q[j] = Console.ReadLine();
+            Console.WriteLine("Give Start Time : like this way : (10:00AM/PM)");
+            r[j] = Console.ReadLine();
+            Console.WriteLine("Give End Time : like this way : (10:00AM/PM)");
+            s[j] = Console.ReadLine();
+
+            course1.ClassSchedules.Add(new ClassSchedules { Day = q[j], StartTime = r[j], EndTime = s[j] });
+
+        }
+        Console.WriteLine("Total Classes :");
+        int z = int.Parse(Console.ReadLine());
+        course1.TotalClasses = z;
+        context.Courses.Update(course1);
+        context.SaveChanges();
+
     }
     #endregion
     else
@@ -314,5 +376,4 @@ else
 /*User user = new User { Name = "Avishek das", UserName = "Avishek", Password = 12345, UserType = (UserStatus)0 };
 context.Add(user);
 context.SaveChanges();*/
-#endregion
 #endregion
