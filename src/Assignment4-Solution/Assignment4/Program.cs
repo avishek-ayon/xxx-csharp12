@@ -175,80 +175,87 @@ if (c1?.UserName != null && c1.UserType == 0)
     }
     else if (m == 2)
     {
-        Console.WriteLine("Student ");
+        Console.WriteLine("&&&&&&&&&&&&&&&&&&  Student Panel -----------------");
 
-        Console.WriteLine("Name :");
-        string Name = Console.ReadLine();
-
-        Console.WriteLine("UserName :");
-        string UserName = Console.ReadLine();
-
-        Console.WriteLine("Password :");
-        int Password = int.Parse(Console.ReadLine());
-
-
-        User StudentWithCourse = new User { Name = Name, UserName = UserName, Password = Password, UserType = (UserStatus)m };
-        context.Users.Add(StudentWithCourse);
-        context.SaveChanges();
-       
-
-        List<Course> d1 = context.Courses.ToList();
-
-      // display Course which are assign 
-        Console.WriteLine("Course List");
-        int i;
-
-        for (i = 0; i < d1.Count; i++)
+        Console.WriteLine("Give 1 to create and Give 2 to see course and student ");
+        int given = int.Parse(Console.ReadLine());
+        if(given == 1)
         {
+            Console.WriteLine("Name :");
+            string Name = Console.ReadLine();
+
+            Console.WriteLine("UserName :");
+            string UserName = Console.ReadLine();
+
+            Console.WriteLine("Password :");
+            int Password = int.Parse(Console.ReadLine());
+
+
+            User StudentWithCourse = new User { Name = Name, UserName = UserName, Password = Password, UserType = (UserStatus)m };
+            context.Users.Add(StudentWithCourse);
+            context.SaveChanges();
+        }
+
+
+       else if(given == 2)
+        {
+            List<Course> d1 = context.Courses.ToList();
+
+            // display Course which are assign 
+            Console.WriteLine("Course List");
+            int i;
+
+            for (i = 0; i < d1.Count; i++)
             {
-                Console.WriteLine($"No : {i + 1} {d1[i].CourseName}");
+                {
+                    Console.WriteLine($"No : {i + 1} {d1[i].CourseName}");
+                }
+
             }
 
+
+            //assign
+
+
+            //all student
+            List<User> Users1 = context.Users.Where(x => x.UserType == UserStatus.Student).ToList();
+
+            foreach (var it in Users1)
+            {
+                Console.WriteLine(it.UserName + " " + it.UserType);
+
+            }
+            Console.WriteLine("-------------------  if you add a then 1 and see student -------  ");
+
+            int give = int.Parse(Console.ReadLine());
+            if (give == 1)
+            {
+
+
+                Console.WriteLine("give Course Name to see list");
+                String Coursename = Console.ReadLine();
+
+                Console.WriteLine("give student UserName to see list");
+                String studentName = Console.ReadLine();
+
+
+                Course course12 = context.Courses.Where(x => x.CourseName == Coursename)
+                    .Include(x => x.CourseStudents)
+                    .FirstOrDefault();
+
+                if (course12.CourseStudents == null)
+                    course12.CourseStudents = new List<StudentCourseAssignment>();
+
+                User s1 = context.Users.Where(x => x.UserName == studentName).FirstOrDefault(); ;
+                course12.CourseStudents.Add(new StudentCourseAssignment { Student = s1 });
+                context.SaveChanges();
+
+            }
+            else
+            {
+                Console.WriteLine("Thanks ");
+            }
         }
-
-
-        //assign
-
-       
-        //all student
-        List<User> Users1 = context.Users.Where(x => x.UserType == UserStatus.Student).ToList();
-
-        foreach (var it in Users1)
-        {
-            Console.WriteLine(it.UserName + " " + it.UserType);
-
-        }
-        Console.WriteLine("-------------------  if you add a then 1 and see student -------  ");
-
-        int give = int.Parse(Console.ReadLine());
-        if(give==1)
-        {
-
-
-            Console.WriteLine("give Course Name to see list");
-        String Coursename = Console.ReadLine();
-
-            Console.WriteLine("give student UserName to see list");
-            String studentName = Console.ReadLine();
-
-
-        Course course12 = context.Courses.Where(x => x.CourseName == Coursename)
-            .Include(x => x.CourseStudents)
-            .FirstOrDefault();
-
-        if (course12.CourseStudents == null)
-            course12.CourseStudents = new List<StudentCourseAssignment>();
-
-        User s1 = context.Users.Where(x => x.UserName == studentName).FirstOrDefault(); ;
-        course12.CourseStudents.Add(new StudentCourseAssignment { Student = s1 });
-        context.SaveChanges();
-
-        }
-        else
-        {
-            Console.WriteLine("Thanks ");
-        }
-
 
     }
     #region Admin Added New Course
